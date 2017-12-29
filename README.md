@@ -1,2 +1,2 @@
 # draw
-![Diagram example](diagrams/Untitled Diagram.png)
+![Diagram example](images/Untitled Diagram.png)
